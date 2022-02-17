@@ -31,4 +31,3 @@ npx hardhat help
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/94522477/154475890-c285f49a-a969-4166-92de-da652fc316ae.png)
 
-![Screenshot (9)](https://user-images.githubusercontent.com/94522477/154475828-87d15f96-72af-41e9-9b5e-6c98b6eb2df1.png)
