@@ -37,15 +37,15 @@ describe("NFTMarket", function() {
 
     await mynfts.createToken("https://gateway.pinata.cloud/ipfs/QmUpW9WoFj4VyYRNkBVACXJSQmUq1eeZW9PCU8LLJn3btM")
     await mynfts.createToken("https://gateway.pinata.cloud/ipfs/QmUpW9WoFj4VyYRNkBVACXJSQmUq1eeZW9PCU8LLJn3btM")
-	// const nftPrice=2000;
-	// let listingPrice=await nft_Market_Place.calculateListingPrice(nftPrice);
-	// listingPrice=listingPrice.toString()
-	// const royalty=250 // 10000 = 1 
-	// await nft_Market_Place.createMarketItem(nftContractAddress, 1, nftPrice, royalty, { value: listingPrice })
-  //   await nft_Market_Place.createMarketItem(nftContractAddress, 2, nftPrice, royalty, { value: listingPrice })
-	// const [_, buyerAddress] = await ethers.getSigners()
+	const nftPrice=2000;
+	let listingPrice=await nft_Market_Place.calculateListingPrice(nftPrice);
+	listingPrice=listingPrice.toString()
+	const royalty=250 // 10000 = 1 
+	await nft_Market_Place.createMarketItem(nftContractAddress, 1, nftPrice, royalty, { value: listingPrice })
+    await nft_Market_Place.createMarketItem(nftContractAddress, 2, nftPrice, royalty, { value: listingPrice })
+	const [_, buyerAddress] = await ethers.getSigners()
 
-  //   await nft_Market_Place.connect(buyerAddress).createMarketSale(nftContractAddress, 1, royalty,{ value: auctionPrice})
+    await nft_Market_Place.connect(buyerAddress).createMarketSale(nftContractAddress, 1, royalty,{ value: auctionPrice})
       
     })
   })
