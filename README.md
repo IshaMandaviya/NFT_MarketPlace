@@ -30,5 +30,4 @@ npx hardhat help
 # ScreenShort
 
 
-![Screenshot (7)](https://user-images.githubusercontent.com/94522477/154475890-c285f49a-a969-4166-92de-da652fc316ae.png)
 
