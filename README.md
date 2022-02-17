@@ -6,9 +6,10 @@ NFT address: 0x48A4751638b384082e189D163AC7EE16D1Ccd063
 NFT MarketPlace address: 0x7869f67F0E41A1BB6f38AF03BCe9D756C46a19F5
 
 # NFT MarketPlace Contract
-CreatMarketPlaceItem
+CreatMarketPlaceItem: 
 To add item in the marketplace pay 2.5% stage Price // 250 because 10000 = 1 %
-creator of the nft can royalty 
+
+creator of the nft can set  royalty 
 
 # Basic Sample Hardhat Project
 
