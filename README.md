@@ -1,9 +1,11 @@
 # deployed Contract
-Token address: 0xA93545292684df234c08ca1789D344dE7359A7af
-
 NFT address: 0xaE879c3e3a1BFAc6002BF7Bc2fdEcba429448A84
 
-NFT MarketPlace address: 0xaE879c3e3a1BFAc6002BF7Bc2fdEcba429448A84
+NFT MarketPlace address: 0xd0AB21419AdB24157eE7D53d5416d83A303BeA15
+
+Token address: 0xA93545292684df234c08ca1789D344dE7359A7af
+
+
 
 # NFT MarketPlace Contract
 CreatMarketPlaceItem: 
