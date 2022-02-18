@@ -8,7 +8,7 @@ Token address: 0xFD27C211AEA17eBfEA7d712bee4215A3666e38c6
 
 # NFT MarketPlace Contract
 CreatMarketPlaceItem: 
-To add item in the marketplace pay 2.5% stage Price // 250 because 10000 = 1 %
+To add item in the marketplace pay 2.5% stage Price // 250 because 10000 = 100 % so 250 = 2.5%
 
 creator of the nft can set  royalty 
 
