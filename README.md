@@ -14,12 +14,17 @@ creator of the nft can set  royalty
 
 # Screenshot
 Transfering  2.5 % MYT token to deployed Contract for Stage fees
+
 Transferinf Remaining MYT token to NFT Creator for sale price.
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/94522477/154629135-1eb6e9d2-0d90-490f-aca4-d1b2e4905828.png)
 
 Transfering  2.5 % MYT token to deployed Contract for Stage fees
+
 Transfering   MYT token to NFT creator  for royalty
+
 Transferinf Remaining MYT token to NFT Owner for sale price.
+
 ![Screenshot (12)](https://user-images.githubusercontent.com/94522477/154629325-f438c71d-8739-41bd-9beb-99cc8d3af2af.png)
 
 
@@ -39,7 +44,6 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-# ScreenShort
 
 
 
