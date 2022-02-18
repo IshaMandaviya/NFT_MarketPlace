@@ -1,10 +1,9 @@
 # deployed Contract
-NFT address: 0xaE879c3e3a1BFAc6002BF7Bc2fdEcba429448A84
+NFT address: 0x96270bA87e6aDd56e0ecBecde6b727d24471f8E9
 
-NFT MarketPlace address: 0xd0AB21419AdB24157eE7D53d5416d83A303BeA15
+NFT MarketPlace address: 0xD676ed8715A61c6CbCf0fe89bF6449dA6e84d89A
 
-Token address: 0xA93545292684df234c08ca1789D344dE7359A7af
-
+Token address: 0xFD27C211AEA17eBfEA7d712bee4215A3666e38c6
 
 
 # NFT MarketPlace Contract
@@ -12,6 +11,17 @@ CreatMarketPlaceItem:
 To add item in the marketplace pay 2.5% stage Price // 250 because 10000 = 1 %
 
 creator of the nft can set  royalty 
+
+# Screenshot
+Transfering  2.5 % MYT token to deployed Contract for Stage fees
+Transferinf Remaining MYT token to NFT Creator for sale price.
+![Screenshot (11)](https://user-images.githubusercontent.com/94522477/154629135-1eb6e9d2-0d90-490f-aca4-d1b2e4905828.png)
+
+Transfering  2.5 % MYT token to deployed Contract for Stage fees
+Transfering   MYT token to NFT creator  for royalty
+Transferinf Remaining MYT token to NFT Owner for sale price.
+![Screenshot (12)](https://user-images.githubusercontent.com/94522477/154629325-f438c71d-8739-41bd-9beb-99cc8d3af2af.png)
+
 
 # Basic Sample Hardhat Project
 
