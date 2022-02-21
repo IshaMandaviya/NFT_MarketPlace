@@ -13,8 +13,6 @@ To add item in the marketplace pay 2.5% stage Price // 250 because 10000 = 100 %
 creator of the nft can set  royalty 
 
 # Screenshot
-Running Test Cases
-![Screenshot (14)](https://user-images.githubusercontent.com/94522477/154681593-7d08f8b1-ec11-498e-94c2-a94f33d26b29.png)
 
 
 Transfering  2.5 % MYT token to deployed Contract for Stage fees
